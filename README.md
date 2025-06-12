@@ -3,7 +3,8 @@
 Gestor Inteligente de Alimentos y Caducidad 
 Proyecto completo en Python para gestionar la caducidad de alimentos en el hogar o negocio. Desarrollado con Streamlit, SQLite y herramientas de reconocimiento de voz e imagen. Ideal para mostrar habilidades en desarrollo backend, bases de datos, automatización y experiencia de usuario.
 
-✨ Características principales
+✨ Características principales:
+
 ✅ Registro y visualización de alimentos con fecha de caducidad.
 
 🔔 Avisos automáticos de productos próximos a caducar.
@@ -19,6 +20,7 @@ Proyecto completo en Python para gestionar la caducidad de alimentos en el hogar
 🛒 Lista de la compra con historial de productos eliminados.
 
 🧠 Tecnologías utilizadas
+
 Python
 
 Streamlit: interfaz interactiva
